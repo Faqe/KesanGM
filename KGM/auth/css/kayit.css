@@ -1,0 +1,29 @@
+input.data-input, input.text-input, input.date-input{
+  height: 30px;
+  font-size: 20px;
+  right: 10%;
+  width: 200px;
+  display: inline-block;
+}
+select{
+  width: 200px;
+  display: inline-block;
+}
+
+input.btn{
+  background: #c94f4f;
+}
+
+input.btn-submit{
+  width: 70%;
+  left: 15%;
+  position: relative;
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+span.error{
+  background: darkred;
+  color: #c94f4f;
+}

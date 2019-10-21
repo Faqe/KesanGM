@@ -1,0 +1,27 @@
+footer{
+  background: rgb(59, 59, 59);
+  color: rgb(187, 187, 187);
+  font-size: 15px;
+  margin: auto;
+}
+h4{
+  text-align: center;
+}
+img.icon{
+  height: 1em !important;
+}
+hr.vertical{
+  width: 1px;
+}
+a.social{
+  color: aliceblue;
+}
+div.third{
+  width: 30%;
+  margin: 0 auto;
+  padding: unset;
+  display: inline-table;
+}
+.clearfix {
+  overflow: auto;
+}

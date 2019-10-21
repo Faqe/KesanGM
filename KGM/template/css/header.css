@@ -1,0 +1,51 @@
+/*Header*/
+body{
+  margin:0px;
+}
+ul.topnav{
+  width: 100%;
+  max-height: 50px;
+  background: #ddbfa2;
+  margin: auto;
+  display: inline-block;
+  z-index: 9999;
+  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  list-style-type: none;
+}
+ul.topnav li{
+  float: left;
+}
+a.buttonize{
+  float: right;
+}
+a.menuitem{
+  display: block;
+  color: #222222;
+  font-weight: 700;
+  line-height: 40px;
+  padding: 10px 20px;
+}
+img.logo{
+  max-height: 50px;
+}
+
+h1.title, h2.title, h3.title{
+  text-align: center;
+}
+
+span.labelize {
+  width: 300px;
+  display: inline-block;
+}
+
+div.form-element {
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+input.longtext{
+  height: 20vw;
+  width: 20vw;
+  overflow-wrap: break-word;
+}
